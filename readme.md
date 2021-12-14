@@ -1,5 +1,6 @@
 # Pomodoro Timer
-A Thinkful time-management project using React hooks
+A Thinkful time-management project using React hooks.
+Live deployment of app can be found [here](https://pomodoro-timer-astraus.herokuapp.com/).
 
 ## Installation
 1. Download the files and unzip.
